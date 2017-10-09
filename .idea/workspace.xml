@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ebb9df1-29cb-4a75-96d6-405c49dd8ade" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mario/finished/src/assets/imgs/cloud.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mario/finished/src/assets/imgs/luigi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mario/finished/src/assets/imgs/mario.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mario/finished/src/assets/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mario/finished/src/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mario/anim-fill-mode/src/assets/css/styles.css" afterPath="$PROJECT_DIR$/src/mario/anim-fill-mode/src/assets/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mario/anim-fill-mode/src/index.html" afterPath="$PROJECT_DIR$/src/mario/anim-fill-mode/src/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,11 +29,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/mario/anim-fill-mode/src/assets/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="76" column="57" lean-forward="false" selection-start-line="76" selection-start-column="57" selection-end-line="76" selection-end-column="57" />
+            <state relative-caret-position="323">
+              <caret line="57" column="8" lean-forward="true" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/mario/finished/src/assets/css/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="119" column="1" lean-forward="false" selection-start-line="119" selection-start-column="1" selection-end-line="119" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -60,6 +74,7 @@
         <option value="$PROJECT_DIR$/src/anim-fill-mode/src/assets/css/styles.css" />
         <option value="$PROJECT_DIR$/src/mario/anim-fill-mode/src/index.html" />
         <option value="$PROJECT_DIR$/src/mario/anim-fill-mode/src/assets/css/styles.css" />
+        <option value="$PROJECT_DIR$/src/mario/finished/src/assets/css/styles.css" />
       </list>
     </option>
   </component>
@@ -166,6 +181,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/mario" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/keyframes/src/assets/imgs" />
       <recent name="$PROJECT_DIR$/src/transitions/src/assets/imgs" />
@@ -372,8 +388,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mario/anim-fill-mode/src/assets/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="76" column="57" lean-forward="false" selection-start-line="76" selection-start-column="57" selection-end-line="76" selection-end-column="57" />
+        <state relative-caret-position="323">
+          <caret line="57" column="8" lean-forward="true" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mario/finished/src/assets/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="119" column="1" lean-forward="false" selection-start-line="119" selection-start-column="1" selection-end-line="119" selection-end-column="1" />
           <folding />
         </state>
       </provider>
