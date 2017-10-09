@@ -49,6 +49,7 @@ html, body {
     animation-duration: 3s;
     animation-fill-mode: both; /* none forwards backwards both */
     animation-iteration-count: infinite;
+    animation-timing-function: cubic-bezier(0, .77, 1, .28);
 }
 
 .luigi {
@@ -69,7 +70,7 @@ html, body {
         transform: translateX(-200px);
     }
     to {
-        transform: translateX(2300px);
+        transform: translateX(1550px);
     }
 }
 

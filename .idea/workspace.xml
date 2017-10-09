@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3ebb9df1-29cb-4a75-96d6-405c49dd8ade" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mario/anim-fill-mode/src/assets/css/styles.css" afterPath="$PROJECT_DIR$/src/mario/anim-fill-mode/src/assets/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mario/anim-fill-mode/src/index.html" afterPath="$PROJECT_DIR$/src/mario/anim-fill-mode/src/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,8 +27,8 @@
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/mario/anim-fill-mode/src/assets/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="61" column="32" lean-forward="false" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="32" />
+            <state relative-caret-position="278">
+              <caret line="71" column="8" lean-forward="true" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -372,8 +371,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mario/anim-fill-mode/src/assets/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="61" column="32" lean-forward="false" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="32" />
+        <state relative-caret-position="278">
+          <caret line="71" column="8" lean-forward="true" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="8" />
           <folding />
         </state>
       </provider>
